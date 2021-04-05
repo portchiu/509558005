@@ -1,4 +1,4 @@
-# Lab3 ![image](https://travis-ci.com/portchiu/509558005.svg?branch=main)
+# Lab3 ![image](https://travis-ci.com/portchiu/509558005)
 # Pass
 ![image](https://user-images.githubusercontent.com/72786024/113537980-a790f100-960c-11eb-80bb-385ce11687ef.png)
 ![image](https://user-images.githubusercontent.com/72786024/113537960-9d6ef280-960c-11eb-9267-111ff1913b30.png)
